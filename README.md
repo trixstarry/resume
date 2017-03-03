@@ -6,11 +6,11 @@ thaotrang.hoang@gmail.com
 
 Skills and Expertise
 --------------------
-- Programming and scripting using Python, C, CSS, HTML5
-- Manual dexterity with electronic hardware and programming Atmel microcontrollers in C
-- Operating system experience with Windows, Linux, Mac OS X
-- Fluent in English, German and Basic Russian, Japanese, and Vietnamese
-- Excellent Communication, Quick Adaptability
+- Fluent in English, German and Basic Fluency in Russian, Japanese, and Vietnamese
+- Strong operating system experience with Windows, Linux, and Mac OS X
+- Programming and scripting using Python, C, CSS, and HTML5
+- Manual dexterity with electronic hardware with attention to detail
+- International collaboration on numerous engineering projects
 
 Experience History
 ------------------
