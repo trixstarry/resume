@@ -103,9 +103,9 @@ Awards and Lifetime Experiences
 - Brought together the freshman and sophomore electrical and computer engineering courses
 - Improved my understanding of how engineering depends on sequence
 
-### Ford Scholar
+### Ford Scholar, Sept. 2007 - June 2012
 - Honored with the Ford Foundation's prestigious scholarship which pays for 90% of college education
 - http://www.tfff.org/what-we-do/successful-citizens/scholarship-programs/ford-scholars-program
 
-### High School Valedictorian
+### High School Valedictorian, June 2007
 - Academic achievement with the highest GPA
