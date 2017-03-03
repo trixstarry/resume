@@ -1,8 +1,8 @@
 Thao-Trang Hoang
 
-Beaverton, Oregon
-
 thaotrang.hoang@gmail.com
+
+Beaverton, Oregon
 
 Skills and Expertise
 --------------------
