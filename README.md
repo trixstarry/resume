@@ -48,6 +48,10 @@ Experience
 Engineering Design Projects
 ---------------------------
 
+### DDR Control Box Conversion, Feb. 2017 – Mar. 2017
+Converted DDR Dance Pad v3.0 to be compatible with Gamesis Recessed I-Motion Dance Pad
+Created pin-out diagrams for 15-pin serial port with addition analysis of microcontroller data sheets
+
 ### Multiple LED Cube Controller, Sept. 2014 – June 2015
 - Developed wireless interface, magnetic hall effects, LED array, and user interface in C and Python
 - Worked in an agile scrum environment with a team of three
