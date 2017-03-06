@@ -6,14 +6,14 @@ Beaverton, Oregon
 
 Skills and Expertise
 --------------------
-- Fluent in English, German and Basic Fluency in Russian, Japanese, and Vietnamese
 - Strong operating system experience with Windows, Linux, and Mac OS X
 - Programming and scripting using Python, C, CSS, and HTML5
 - Manual dexterity with electronic hardware with attention to detail
 - International collaboration on numerous engineering projects
+- Fluent in English, German and Basic Fluency in Russian, Japanese, and Vietnamese
 
-Experience History
-------------------
+Experience
+----------
 
 ### Alcohol Brand Ambassador at Advantage Solutions, Nov. 2015 – Present
 - Established set-up, sampling, product representation with emphasis on organization and execution
@@ -68,7 +68,7 @@ Education
 ### B.S. Electrical and Computer Engineering at Oregon State University in Corvallis, Oregon, Graduated June 2015
 
 - Achieved Bachelor of Science in Electrical and Computering with a generalist focus
-- Hands-on implementation of analog boards, digital logic boards, power supply, sound amplifier, microprocessor design, radio alarm clock
+- Hands-on implementation of analog boards, digital logic boards, linear power supply, sound amplifier, microprocessor design, radio alarm clock, senior design project
 - Experience using tools such as LabView, MATLAB, SolidWorks, Eclipse, data logging software
 - Coding experience in C, Java, Assembly, CSS, HTML5, Python
 
@@ -76,7 +76,7 @@ Education
 
 - Academically studied the following courses: Fundamentals of Acoustics, Sound Design, Video Game Prototyping, Computer Graphics, Operating Systems
 - Collaborated with peers from around the world in several engineering projects
-- Cultural immersion the Denmark with visits to many neighboring countries
+- Danish language lessons and cultural immersion in Denmark with visits to many neighboring countries throughout Europe
 
 Awards and Lifetime Experiences
 -------------------------------
@@ -107,5 +107,5 @@ Awards and Lifetime Experiences
 - Honored with the Ford Foundation's prestigious scholarship which pays for 90% of college education
 - http://www.tfff.org/what-we-do/successful-citizens/scholarship-programs/ford-scholars-program
 
-### High School Valedictorian, June 2007
+### High School Valedictorian, Sept. 2003 - June 2007
 - Academic achievement with the highest GPA
